@@ -4,4 +4,4 @@ Hello word 3
 Hello word 2  这是HotFix分支修改的
 Hello word 2
 Hello word 2
-Hello word 2
+Hello word 2  hotFix 合并冲突测试
